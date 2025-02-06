@@ -1,6 +1,6 @@
 {
   "name": "iehr-valueset-selector",
-  "version": "4.3.200",
+  "version": "4.3.201",
   "private": true,
   "type": "module",
   "scripts": {
@@ -18,10 +18,10 @@
     "@mantine/core": "7.16.2",
     "@mantine/hooks": "7.16.2",
     "@mantine/notifications": "7.16.2",
-    "@iehr/core": "4.3.200",
-    "@iehr/eslint-config": "4.3.200",
-    "@iehr/fhirtypes": "4.3.200",
-    "@iehr/react": "4.3.200",
+    "@iehr/core": "4.3.201",
+    "@iehr/eslint-config": "4.3.201",
+    "@iehr/fhirtypes": "4.3.201",
+    "@iehr/react": "4.3.201",
     "@tabler/icons-react": "3.17.0",
     "@types/node": "22.13.1",
     "@types/react": "18.3.12",
